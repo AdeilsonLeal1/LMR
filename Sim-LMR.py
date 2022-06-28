@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from numpy import *
 import matplotlib.pyplot as plt
 
@@ -905,7 +905,7 @@ while True:
               "\n---------------------------------------------------------------------------------------\n")
     else:
         break
-=======
+
 from numpy import *
 import matplotlib.pyplot as plt
 
@@ -1812,4 +1812,4 @@ while True:
               "\n---------------------------------------------------------------------------------------\n")
     else:
         break
->>>>>>> c6da5096448f16ce8cbb2c4bab2f7718f915eac9
+
