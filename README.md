@@ -34,7 +34,7 @@
 - [x] Supports N layers;
 - [x] Kretschmann-Raether configuration;
 - [x] Angular Interrogation Mode;
-- [x] It uses lines of code;
+- [x] It uses command lines;
 - [x] Python 3.5 or higher;
 - [x] Python Libraries: Numpy, Matplotlib, OS, Sys and Time;
 
